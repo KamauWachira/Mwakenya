@@ -1,0 +1,6 @@
+{
+  "name": "ExamSnap",
+  "description": "Snap exam questions in math, science, and more for instant step-by-step AI solutions with local history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
